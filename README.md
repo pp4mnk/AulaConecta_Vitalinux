@@ -1,6 +1,6 @@
 # AulaConecta_Vitalinux
 
-Aula Conecta  · pp4mnk, con instalador .deb, código e instrucciones.
+Aula Conecta  · pp4mnk, con instalador .deb, código e instrucciones (sp/en)
 
 Un primer intento de solucionar los problemas tan frecuentes de conexión en los colegios con vitalinux.
 
