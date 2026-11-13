@@ -12,7 +12,7 @@ Que incluye este software:
 - Restauración automática si no confirmas el cambio de vídeo.
 - Asociación del táctil a la pantalla seleccionada.
 - Informe de diagnóstico para soporte.
-- 
+  
 Para instalarlo: extrae el ZIP, abre una terminal en la carpeta extraída y ejecuta:
 sudo apt install ./aula-conecta_0.1.0_all.deb o simplemente, tras descomprimir ejecuta el instalador, que tiene permisos concedidos para root, user....bla,bla,bla.
 
