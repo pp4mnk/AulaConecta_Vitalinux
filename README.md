@@ -19,4 +19,4 @@ sudo apt install ./aula-conecta_0.1.0_all.deb o simplemente, tras descomprimir e
 Después abre Aula Conecta desde el menú de aplicaciones.
 
 Es una primera versión para Vitalinux con X11 y Python 3.8 o superior. Necesita ser probada en un equipo Vitalinux real con un maestro tipo, que no sea un hacker informático, para ver que sería necesario implementar o si da errores.
-Por supuesto, obviamente, no puedo garantizar todos los modelos ni solucionar mediante software cables o adaptadores que falten. Si ya no se arregla, informar a mantenimiento..jaja (que igual llegan)
+Por supuesto, obviamente, no puedo garantizar todos los modelos ni solucionar mediante software cables o adaptadores que falten. Si ya no se arregla, informar a mantenimiento..
